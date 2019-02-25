@@ -1,3 +1,4 @@
 “Hello world!” - said everyone, always
 "Bye, Felicia" - Ice Cube
 "This is a test" - said computer
+"second test' - said terminal
